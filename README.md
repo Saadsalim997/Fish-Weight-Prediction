@@ -1,4 +1,4 @@
-Fish Weight Prediction
+#Fish Weight Prediction
 
 Welcome to the Fish Weight Prediction project! This application uses machine learning models to predict the weight of fish based on various features.
 
